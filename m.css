@@ -1,0 +1,11 @@
+body {
+    background-color: rgb(243, 173, 173);
+}
+
+.cart-container {
+    margin-top: 30px;
+}
+
+#food-container {
+    margin-top: 20px;
+}
